@@ -18,3 +18,6 @@ Rebot framwork - Selenium - Cucumber- Jira- Git/Gitflow- Jenkins
 Resources:
 
 https://testautomationu.applitools.com/
+
+doc:
+https://www.selenium.dev/documentation/en/
